@@ -1,0 +1,27 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: black;
+}
+
+#time{
+    font-size: 130px;
+}
+ h1{
+    font-size: 50px;
+    margin: 20px;
+ }
+ h2{
+    margin: 10px;
+ }
